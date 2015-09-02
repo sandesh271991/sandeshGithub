@@ -18,6 +18,13 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
+=======
+    
+  
+    NSLog(@"hi sandesh");
+    
+>>>>>>> origin/GithubNewBranch
 }
 
 - (void)didReceiveMemoryWarning {
