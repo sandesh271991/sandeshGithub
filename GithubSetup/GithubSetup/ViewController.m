@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"this is first commit from Roshan Dharpure");
     
+    NSLog(@"second commite from sandesh");
 }
 
 - (void)didReceiveMemoryWarning {
