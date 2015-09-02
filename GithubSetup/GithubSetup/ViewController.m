@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"this is first commit from Roshan");
+    NSLog(@"this is first commit from Roshan Dharpure");
     
 }
 
